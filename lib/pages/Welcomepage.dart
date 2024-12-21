@@ -31,7 +31,7 @@ class WasteWiseHomePage extends StatelessWidget {
             const SizedBox(height: 10),
             // Subtitle
             const Text(
-              'SMART URBAN WASTE MANAGEMENT SYSTEM\n(Sponsored By Govt. Of NCT)',
+              'Greater Visakhapatnam Municipal Corporation',
               textAlign: TextAlign.center,
               style: TextStyle(
                 fontSize: 14,
